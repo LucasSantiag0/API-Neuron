@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "/+++81NnwUVM7vB7l51kESm85D97EmWbNrDPujjigeU=",
+  "Source": "NeuronPlataforma.Server",
+  "BasePath": "_content/NeuronPlataforma.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\neuronplataforma.client.esproj",
+      "Version": 2,
+      "Source": "neuronplataforma.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

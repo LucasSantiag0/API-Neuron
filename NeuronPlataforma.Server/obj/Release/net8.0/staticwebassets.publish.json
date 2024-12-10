@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "Hash": "TI3ErxrmxJgWTDhGWrtQcqCm4H/mH6E6x67Rf0ZOvWU=",
+  "Source": "NeuronPlataforma.Server",
+  "BasePath": "_content/NeuronPlataforma.Server",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\neuronplataforma.client.esproj",
+      "Version": 2,
+      "Source": "neuronplataforma.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\Fundo-SrjCxiUT.png",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/Fundo-SrjCxiUT.png",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6pkzg4ecga",
+      "Integrity": "itMTCRZdXMBnNJS33iohqR+AvX8alipU57uURydVlHQ=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\Fundo-SrjCxiUT.png"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\index-DGm_pNrD.css",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-DGm_pNrD.css",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7bdkj5sd8",
+      "Integrity": "+onr1F0I2LZwiLd7Lpf/YE8YvWZGRqVUDsWedfo6abM=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\index-DGm_pNrD.css"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\index-SXUOiFrh.js",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/index-SXUOiFrh.js",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rx2srx8nxb",
+      "Integrity": "31ykbGbfkB1eD7IiX3OOM6yf2OHfixGgUbAVIumgIac=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\index-SXUOiFrh.js"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninCadastro-Ck9S2fkV.png",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/juninCadastro-Ck9S2fkV.png",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cr75mrc2a4",
+      "Integrity": "eOddQe77XAum6LaVKo+BQ/4HnfUadQGJetENdoOHftQ=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninCadastro-Ck9S2fkV.png"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninLogin-DzztQ18I.png",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/juninLogin-DzztQ18I.png",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j6l99d6wdm",
+      "Integrity": "hc+QBKof86e5yKneZKg6CnvUH1eUjon0NMUcdX4tJ8E=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninLogin-DzztQ18I.png"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninNovaSenha-D5GFEACu.png",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/juninNovaSenha-D5GFEACu.png",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "deqcalaxgr",
+      "Integrity": "pa5xpvxfGup79vmVpJL6Yi9H0igQmz+swfqdRaMeJeE=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninNovaSenha-D5GFEACu.png"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninRecuSenha-BeR63S92.png",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/juninRecuSenha-BeR63S92.png",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "80dzer654f",
+      "Integrity": "mOZgIL5m2Xw4AdN73RYmwHtO4ov4XBEAYMqKk4cDx7k=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninRecuSenha-BeR63S92.png"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\logoBranca-BcosOf3d.png",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/logoBranca-BcosOf3d.png",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dme16b7e41",
+      "Integrity": "RcLYDxlCTD8bOI9o7O338GxLT4RsEhc97Eygwi+fA9Q=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\logoBranca-BcosOf3d.png"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\index.html",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "index.html",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fllioam548",
+      "Integrity": "LaKK6E39SLDBCShRg9s29dK+JEwsKNe7ToGM39tdvUY=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\neuron-logo.png",
+      "SourceId": "neuronplataforma.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "neuron-logo.png",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "skhp31izq8",
+      "Integrity": "PIxV8wlgYlMhbOQA/lueF3bYkADCNYtbrWCckalgu+A=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\neuron-logo.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/Fundo-SrjCxiUT.png",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\Fundo-SrjCxiUT.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "643431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"itMTCRZdXMBnNJS33iohqR+AvX8alipU57uURydVlHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 00:11:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-itMTCRZdXMBnNJS33iohqR+AvX8alipU57uURydVlHQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DGm_pNrD.css",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\index-DGm_pNrD.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+onr1F0I2LZwiLd7Lpf/YE8YvWZGRqVUDsWedfo6abM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 00:11:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+onr1F0I2LZwiLd7Lpf/YE8YvWZGRqVUDsWedfo6abM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-SXUOiFrh.js",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\index-SXUOiFrh.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "957294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"31ykbGbfkB1eD7IiX3OOM6yf2OHfixGgUbAVIumgIac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 00:11:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-31ykbGbfkB1eD7IiX3OOM6yf2OHfixGgUbAVIumgIac="
+        }
+      ]
+    },
+    {
+      "Route": "assets/juninCadastro-Ck9S2fkV.png",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninCadastro-Ck9S2fkV.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eOddQe77XAum6LaVKo+BQ/4HnfUadQGJetENdoOHftQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 00:11:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eOddQe77XAum6LaVKo+BQ/4HnfUadQGJetENdoOHftQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/juninLogin-DzztQ18I.png",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninLogin-DzztQ18I.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1186337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hc+QBKof86e5yKneZKg6CnvUH1eUjon0NMUcdX4tJ8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 00:11:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hc+QBKof86e5yKneZKg6CnvUH1eUjon0NMUcdX4tJ8E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/juninNovaSenha-D5GFEACu.png",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninNovaSenha-D5GFEACu.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pa5xpvxfGup79vmVpJL6Yi9H0igQmz+swfqdRaMeJeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 00:11:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pa5xpvxfGup79vmVpJL6Yi9H0igQmz+swfqdRaMeJeE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/juninRecuSenha-BeR63S92.png",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\juninRecuSenha-BeR63S92.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mOZgIL5m2Xw4AdN73RYmwHtO4ov4XBEAYMqKk4cDx7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 00:11:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mOZgIL5m2Xw4AdN73RYmwHtO4ov4XBEAYMqKk4cDx7k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/logoBranca-BcosOf3d.png",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\assets\\logoBranca-BcosOf3d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RcLYDxlCTD8bOI9o7O338GxLT4RsEhc97Eygwi+fA9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 00:11:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RcLYDxlCTD8bOI9o7O338GxLT4RsEhc97Eygwi+fA9Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LaKK6E39SLDBCShRg9s29dK+JEwsKNe7ToGM39tdvUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 00:11:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LaKK6E39SLDBCShRg9s29dK+JEwsKNe7ToGM39tdvUY="
+        }
+      ]
+    },
+    {
+      "Route": "neuron-logo.png",
+      "AssetFile": "C:\\Users\\lucas\\Desktop\\NeuronPlataforma\\neuronplataforma.client\\dist\\neuron-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "314420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PIxV8wlgYlMhbOQA/lueF3bYkADCNYtbrWCckalgu+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 17:57:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PIxV8wlgYlMhbOQA/lueF3bYkADCNYtbrWCckalgu+A="
+        }
+      ]
+    }
+  ]
+}

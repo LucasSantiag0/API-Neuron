@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LtZoFCdys0uUoaUIHOTVYJeEnXNqEY6yxzk9xjjITcw=",
+  "Source": "NeuronPlataforma.Server",
+  "BasePath": "_content/NeuronPlataforma.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
